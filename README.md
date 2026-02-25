@@ -32,89 +32,6 @@ If you'd like to contribute:
 
 
 ## Download
-
-<style>
-body {
-  text-align: center;
-  margin-top: 5%;
-  font-family: Arial, sans-serif;
-  background: #000;
-  color: #fff;
-}
-
-.flow-diagram {
-  max-width: 600px;
-  margin: 3rem auto;
-  padding: 2rem;
-}
-
-.flow-box {
-  background: #111;
-  border: 2px solid #9fff00;
-  border-radius: 8px;
-  padding: 1rem 2rem;
-  margin: 1rem auto;
-  max-width: 400px;
-}
-
-.flow-arrow {
-  font-size: 2rem;
-  color: #9fff00;
-  margin: 0.5rem 0;
-}
-
-.flow-split {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.flow-split-box {
-  background: #111;
-  border: 2px solid #ff6b00;
-  border-radius: 8px;
-  padding: 1rem;
-  width: 180px;
-}
-
-.flow-final {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.flow-final-box {
-  background: #111;
-  border: 2px solid #00d9ff;
-  border-radius: 8px;
-  padding: 1rem;
-  width: 180px;
-}
-
-h1 {
-  color: #9fff00;
-}
-
-.save-button {
-  display: inline-block;
-  background: #9fff00;
-  color: #000;
-  padding: 0.75rem 2rem;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: bold;
-  margin: 0.5rem;
-}
-
-.save-button:hover {
-  background: #fff;
-}
-</style>
-</head>
-<body>
-
 <h1>How it works</h1>
 <p>Our website wants to make this website the last site on the Internet.</p>
 <p>So here is our way to achieve it:</p>
@@ -160,7 +77,7 @@ h1 {
     </div>
   </div>
 </div>
-
+<div>
     <a href="https://save.thelastweb.uk/projects" class="save-button">📍 Get IPFS</a>
     <a href="https://save.thelastweb.uk/projects" class="save-button">🚀 Get CDN</a>
     <a href="https://www.npmjs.com/package/thelastweb" class="save-button">📦 Get NPM</a>
@@ -176,7 +93,7 @@ h1 {
 
     <p>Our PC hosting this website will eventually be the last remaining server on the Internet, ensuring its permanence.</p>
     <p>Eventually, the Internet will cease to exist, leaving only this website.</p>
-
+</div>
 
 ## 📬 Contact
 
