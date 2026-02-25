@@ -81,18 +81,6 @@ If you'd like to contribute:
     <a href="https://save.thelastweb.uk/projects" class="save-button">📍 Get IPFS</a>
     <a href="https://save.thelastweb.uk/projects" class="save-button">🚀 Get CDN</a>
     <a href="https://www.npmjs.com/package/thelastweb" class="save-button">📦 Get NPM</a>
-    
-    <div style="margin: 2rem auto; padding: 1rem; background: #111; border: 1px solid #333; border-radius: 8px; max-width: 400px;">
-      <p style="margin: 0.5rem 0;">Install via NPM:</p>
-      <code style="background: #000; padding: 0.5rem 1rem; border-radius: 4px; display: block;">npm install thelastweb</code>
-    </div>
-
-    <a href="https://www.mediafire.com/folder/zarf5oe3c9o2y/Final" class="save-button">Get TheLastWeb code</a>
-
-    <h3 style="color: #ff6b00; margin-top: 3rem;">Final death of the internet</h3>
-
-    <p>Our PC hosting this website will eventually be the last remaining server on the Internet, ensuring its permanence.</p>
-    <p>Eventually, the Internet will cease to exist, leaving only this website.</p>
 </div>
 
 ## 📬 Contact
